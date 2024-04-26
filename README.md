@@ -7,7 +7,7 @@
 
 #### 安装依赖库
 
-ChaEdt需要ursina才能正常运行
+ChaEdt需要ursina才能正常运行(必须为ursina6.1.2)
 `pip install ursina`
 
 #### 运行
@@ -26,16 +26,16 @@ ChaEdt需要ursina才能正常运行
 
 右键Note长按拖动更改长按时间
 
-### Require files
-#### Folders
-MapAssets/charts/backups for chart file backups
+### 要求文件
+#### 文件夹
+MapAssets/charts/backups为谱面文件备份
 
-MapAssets/song/song.ogg for song
+MapAssets/song/song.ogg存放的曲子(ogg格式)
 
 
 
 #### Sets
-"settings.json" is ChaEdt set file.
+"settings.json"是ChaEdt的设置文件
 
 ```json
 {
@@ -49,8 +49,8 @@ MapAssets/song/song.ogg for song
 }
 ```
 
-`keys` Keys sets.
+`keys` 键位设置.
 
-`render_range` For the performance,it will set some charts invisible.
+`render_range` 为了优化，会使看不见的note设置为不可见.
 
 

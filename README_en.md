@@ -7,8 +7,8 @@
 
 #### Install libs
 
-ChaEdt need ursina engine  
-`pip install ursina`
+ChaEdt need ursina engine(Must ursina6.1.2)
+`pip install ursina==6.1.2`
 
 #### Running
 Download source code.
@@ -26,7 +26,13 @@ Press up arrow can return to origin.
 
 Right mouse button click chart can edit chart tail. 
 
+
 ### Require files
+#### Folders
+MapAssets/charts/backups for chart file backups
+
+MapAssets/song/song.ogg for song
+
 
 
 
