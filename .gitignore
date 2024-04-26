@@ -4,3 +4,14 @@
 ./.idea
 ./__pycache__/
 ./.gitignore
+output/ChaEdt.exe
+MapAssets/song/song.ogg
+__pycache__/ui.cpython-311.pyc
+__pycache__/settings.cpython-311.pyc
+__pycache__/file.cpython-311.pyc
+__pycache__/editor.cpython-311.pyc
+.idea/modules.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/ChaEdt.iml
+test.py
