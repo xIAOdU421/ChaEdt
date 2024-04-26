@@ -8,7 +8,7 @@
 #### 安装依赖库
 
 ChaEdt需要ursina才能正常运行(必须为ursina6.1.2)
-`pip install ursina`
+`pip install ursina==6.1.2`
 
 #### 运行
 下载github上的源代码
