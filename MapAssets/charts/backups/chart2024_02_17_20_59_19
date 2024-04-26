@@ -1,0 +1,178 @@
+{
+  "songName": "",
+  "songAuthor": "",
+  "mapAuthor": "",
+  "speed": 0.3,
+  "chartFrameIds": [
+    [
+      {
+        "unitId": 0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 1.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 2.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 3.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 4.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 6.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 5.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 7.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 8.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 9.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 10.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 11.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 12.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 13.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 14.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 15.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 17.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 16.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      }
+    ],
+    [
+      {
+        "unitId": 18.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 19.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 20.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 21.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 22.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 23.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 24.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 26.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 28.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 25.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 27.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 29.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 30.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 33.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 31.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 32.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 34.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 35.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 36.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 38.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 37.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 39.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      },
+      {
+        "unitId": 40.0,
+        "tailLengthUnitId": 3.333333372286992e-07
+      }
+    ],
+    [],
+    []
+  ]
+}
