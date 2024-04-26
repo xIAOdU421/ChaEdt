@@ -27,6 +27,10 @@ ChaEdt需要ursina才能正常运行
 右键Note长按拖动更改长按时间
 
 ### Require files
+#### Folders
+MapAssets/charts/backups for chart file backups
+
+MapAssets/song/song.ogg for song
 
 
 
