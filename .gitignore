@@ -1,2 +1,6 @@
 ./MapAssets/song/song.ogg
 ./test.py
+./output/
+./.idea
+./__pycache__/
+./.gitignore
